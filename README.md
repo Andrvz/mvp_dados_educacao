@@ -59,7 +59,7 @@ Camada final com indicadores prontos para análise:
 ## 🚀 Acesse no Databricks
 
 Todos os notebooks, consultas SQL e visualizações interativas estão disponíveis na plataforma Databricks.  
-> [Clique aqui para abrir o projeto no Databricks]([https://community.cloud.databricks.com/](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1431441225581665/2858627846442750/5252574570918169/latest.html))  
+> https://community.cloud.databricks.com/](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1431441225581665/2858627846442750/5252574570918169/latest.html
 
 ---
 
